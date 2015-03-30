@@ -1,0 +1,4 @@
+[
+    { "keys": ["shift+end"], "command": "run_macro_file", "args": {"file": "Packages/User/mymacros.sublime-macro"} },
+    { "keys": ["f2"], "command": "next_bookmark" }
+]

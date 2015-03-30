@@ -1,8 +1,22 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
+		"All Autocomplete",
+		"CTags",
 		"DocBlockr",
-		"Package Control"
+		"Git",
+		"GitGutter",
+		"IntelliDocs",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"RtagsComplete",
+		"StrongView",
+		"Stupid Indent",
+		"SublimeLinter-cppcheck"
 	]
 }
