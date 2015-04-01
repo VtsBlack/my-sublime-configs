@@ -6,17 +6,16 @@
 	[
 		"Alignment",
 		"All Autocomplete",
+		"C Improved",
 		"CTags",
 		"DocBlockr",
 		"Git",
 		"GitGutter",
-		"IntelliDocs",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
-		"RtagsComplete",
-		"StrongView",
 		"Stupid Indent",
+		"SublimeLinter",
 		"SublimeLinter-cppcheck"
 	]
 }
