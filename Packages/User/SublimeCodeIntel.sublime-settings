@@ -1,0 +1,13 @@
+/*
+    SublimeCodeIntel default settings
+*/
+{
+/*
+        Define filters per language to exclude paths from scanning.
+        ex: "JavaScript":["/build/", "/min/"]
+    */
+    "codeintel_scan_exclude_dir":
+    {
+        "C":["/Ouput/", "/Release/"]
+    }
+}
