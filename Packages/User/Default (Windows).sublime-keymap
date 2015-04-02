@@ -1,4 +1,8 @@
 [
     { "keys": ["shift+end"], "command": "run_macro_file", "args": {"file": "Packages/User/mymacros.sublime-macro"} },
-    { "keys": ["f2"], "command": "next_bookmark" }
+    { "keys": ["f2"], "command": "next_bookmark" },
+    { "keys": ["ctrl+k", "l"], "command": "sublimelinter_lint" },
+    { "keys": ["alt+space"], "command": "sublimelinter_goto_error", "args": {"direction": "next"} },
+    { "keys": ["ctrl+k", "p"], "command": "sublimelinter_goto_error", "args": {"direction": "previous"} },
+    { "keys": ["alt+f1"], "command": "sublimelinter_show_all_errors" }
 ]
