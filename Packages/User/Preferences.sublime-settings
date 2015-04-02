@@ -3,8 +3,8 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
 	"spell_check": true,
 	"tab_size": 4,
