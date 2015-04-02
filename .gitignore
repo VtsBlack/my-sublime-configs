@@ -2,3 +2,4 @@ Packages/User/Package Control.last-run
 Packages/User/Package Control.cache/*
 Local/*
 Packages\SublimeLinter\*.txt
+Packages/SublimeLinter/messages/*.txt
