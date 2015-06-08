@@ -4,8 +4,8 @@
 	],
 	"installed_packages":
 	[
-		"Alignment",
 		"All Autocomplete",
+		"BracketHighlighter",
 		"C Improved",
 		"CTags",
 		"DocBlockr",
